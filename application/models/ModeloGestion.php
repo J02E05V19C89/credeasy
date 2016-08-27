@@ -115,6 +115,7 @@ class ModeloGestion extends CI_Model {
         $this->db->from('credito');
         return $this->db->get()->result();
         //comentario
+        //otrocomentario
     }
 
     public function buscarMaxNAbono() {
