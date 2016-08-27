@@ -1,0 +1,88 @@
+body {
+	margin-top: 80px;
+	font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+button{
+    
+    border-radius: 12px;
+    border: 5px solid #999;
+    background-color: white;
+    
+    
+}
+
+img{
+     width: 90px;
+     height:90px;
+    
+}
+#cuerpo{    
+    background-image: url('../imgSis/fondo5.jpg');
+        width: 100%;
+        min-height: 500px;
+        padding: 50px 0;
+        
+        background-position: 0 0;
+        background-repeat: no-repeat;
+        background-size: cover;
+
+        font-weight: 300;
+    
+    
+}
+
+#logo{
+    background-color: #A3D900;    
+}
+
+.informes{ 
+    min-height: 220px;
+    
+ 
+}
+
+#separador{
+    background-color: #A3D900;
+    min-height: 10px;
+}
+
+h1{
+    text-align: center;
+}
+
+footer{
+    background-color: black;
+    min-height: 200px;
+    
+}
+
+.main-header {
+	position: fixed;
+	top: 0;
+	width: 100%;
+        background-position: 0 0;
+        background-repeat: no-repeat;
+        background-size: cover;
+	background-color: #fff;
+	z-index: 99;
+
+    background-color: rgb(255, 255, 255);
+    background-color: rgba(255, 255, 255, 0.95);
+    /* For IE 8*/
+    -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#11000000, endColorstr=#11000000)";
+
+
+	-moz-box-shadow: 0 1px 5px #999;
+	-webkit-box-shadow: 0 1px 5px #999;
+	box-shadow: 0 1px 5px #999;
+}
+
+#mod_clientes{
+    
+     min-height: 600px;
+}
+
+
+    
+
